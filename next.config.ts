@@ -2,7 +2,7 @@ import type { NextConfig } from "next"
 
 const nextConfig: NextConfig = {
   output: "export",
-  basePath: "/IlustPortfolio",
+  basePath: "/senjuMuseum",
   images: {
     qualities: [75],
     unoptimized: true,

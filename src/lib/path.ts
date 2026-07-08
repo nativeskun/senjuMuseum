@@ -1,1 +1,1 @@
-export const BASE_PATH = "/IlustPortfolio"
+export const BASE_PATH = "/senjuMuseum"
