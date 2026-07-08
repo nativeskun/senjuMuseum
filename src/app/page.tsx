@@ -1,5 +1,5 @@
 import Link from "next/link"
-import Image from "next/image"
+import BaseImage from "@/components/base-image"
 import { topicsConfig } from "@/lib/data"
 
 export default function Home() {
@@ -32,7 +32,7 @@ export default function Home() {
               className="group block overflow-hidden rounded-lg border border-zinc-200 bg-white transition-shadow hover:shadow-lg dark:border-zinc-800 dark:bg-zinc-900"
             >
               <div className="relative aspect-[4/3] overflow-hidden bg-zinc-100 dark:bg-zinc-800">
-                <Image
+                <BaseImage
                   src={topic.thumbnail}
                   alt={topic.title}
                   fill
@@ -107,7 +107,7 @@ export default function Home() {
             <img src="https://piyopuffin.github.io/meteor/banner.svg" width="190" height="40" alt="Pikutsuki Meteor" />
           </a>
           <a href="https://nekonet.cyou/" target="_blank" rel="noopener" className="ml-4">
-            <img src="/images/CAT5リンク.png" width="190" height="40" alt="CAT5" />
+            <BaseImage src="/images/CAT5リンク.png" width={190} height={40} alt="CAT5" />
           </a>
         </div>
       </section>
