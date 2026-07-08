@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
-2:I[39756,["/IlustPortfolio/_next/static/chunks/403hs3x3fo6y_.js","/IlustPortfolio/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
-3:I[37457,["/IlustPortfolio/_next/static/chunks/403hs3x3fo6y_.js","/IlustPortfolio/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
-0:{"rsc":["$","$1","c",{"children":[null,[["$","style",null,{"children":"\n        body {\n          --topic-color: #ffffff;\n          --topic-accent: #242424;\n        }\n      "}],["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"D3miEOFqm9gUUUHdNmz99"}
+2:I[39756,["/senjuMuseum/_next/static/chunks/403hs3x3fo6y_.js","/senjuMuseum/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+3:I[37457,["/senjuMuseum/_next/static/chunks/403hs3x3fo6y_.js","/senjuMuseum/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+0:{"rsc":["$","$1","c",{"children":[null,[["$","style",null,{"children":"\n        body {\n          --topic-color: #ffffff;\n          --topic-accent: #242424;\n        }\n      "}],["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HbbT7ZQhM3OsXV1HU5pOq"}

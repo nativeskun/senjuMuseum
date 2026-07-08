@@ -1,2 +1,2 @@
-:HL["/IlustPortfolio/_next/static/chunks/3w-nas7r761aq.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"D3miEOFqm9gUUUHdNmz99"}
+:HL["/senjuMuseum/_next/static/chunks/3w-nas7r761aq.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"HbbT7ZQhM3OsXV1HU5pOq"}
