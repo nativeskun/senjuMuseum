@@ -28,9 +28,9 @@ export const topicsConfig: TopicsConfig = {
       slug: "history",
       title: "先住民の歴史",
       description: "一月毎に1枚のイラストをピックアップして掲載しています",
-      thumbnail: "/images/history/sample.jpg",
-      color: "#ffffff",
-      accentColor: "#242424",
+      thumbnail: "/images/history/samune.png",
+      color: "#a5a5a5",
+      accentColor: "#fbffd2",
       images: [
         { src: "/images/history/202506.png", description: "<i>2025年6月 クララ/えも研<br>デジタルイラスト初描き</i>" },
         { src: "/images/history/202507.png", description: "<i>2025年7月 ミスター・ファンタスティック/マーベル・ライバルズ<br>ほぼトレース</i>" },
