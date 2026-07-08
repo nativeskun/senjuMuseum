@@ -1,4 +1,4 @@
-import BaseImage from "@/components/base-image"
+import Image from "next/image"
 import type { ImageItem } from "@/lib/types"
 
 interface TopicGalleryProps {
@@ -15,7 +15,7 @@ export default function TopicGallery({ images, accentColor }: TopicGalleryProps)
             className="relative w-full overflow-hidden rounded-lg bg-white/10"
             style={{ borderWidth: 2, borderStyle: "solid", borderColor: accentColor }}
           >
-            <BaseImage
+            <Image
               src={item.src}
               alt={item.description.replace(/<[^>]*>/g, "")}
               width={0}
