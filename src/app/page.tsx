@@ -62,12 +62,29 @@ export default function Home() {
 
       <section className="mt-20 border-t border-zinc-200 pt-12 dark:border-zinc-800">
         <h2 className="text-2xl font-bold tracking-tight">先住民について</h2>
-        <p className="mt-4 max-w-2xl leading-relaxed text-zinc-600 dark:text-zinc-400">
+        <p className="mt-4 leading-relaxed text-zinc-600 dark:text-zinc-400 w-auto">
           ハンドルネームが先住民です。名前があまりにも固有名詞です。<br />
           小さくて肉付きのいい感じの女の子が大好きです。<i>X-MEN</i>や<i>HE-MAN</i>も好きです。<br />
+          VRChatとMarvelRivalsとデュエル・マスターズとMTGアリーナとトリッカルがライフワークです。<br />
           2025/6からイラストを描き始めました。<br />
           いまだに作画スタイルは定まっていません。<br />
           感想とかあったら何かしらで教えてね。飛び上がるように喜びます。
+        </p>
+      </section>
+      <section className="mt-12 border-t border-zinc-200 pt-12 dark:border-zinc-800">
+        <h2 className="text-2xl font-bold tracking-tight mb-4">このサイトについて</h2>
+        <p className="leading-relaxed text-zinc-600 dark:text-zinc-400">
+          このサイトは、先住民が描いたイラストを展示したりするために作られました。<br />
+          Next.js 14 と Tailwind CSS を使用して構築されています。<br />
+          DeepSeek V4 Proを使用して、バイブコーディングを行っています。<br />
+          先住民が描いたイラストを壁紙にしたいとか印刷したいとか、個人利用は自由にしてもらって構いません。<br />
+          商標利用は勘弁願いたい。（ソース元を明記した転載は許可します。その際は当サイトのURLを記載してください）<br />
+          当サイトはリンクフリーです。以下のバナーを使ってやってください。<br />
+          <a href="/images/先住民の歴史博物館.png" target="_blank" className="w-auto inline-block">
+            <Image src="/images/先住民の歴史博物館.png" width={160} height={50} alt="先住民の歴史博物館" className="mt-4" />
+          </a>
+          <br />
+          公開日：2026/7/8(水)
         </p>
       </section>
       <section className="mt-12 border-t border-zinc-200 pt-12 dark:border-zinc-800">
@@ -109,6 +126,7 @@ export default function Home() {
           <a href="https://nekonet.cyou/" target="_blank" rel="noopener" className="ml-4">
             <Image src="/images/CAT5リンク.png" width={190} height={40} alt="CAT5" />
           </a>
+          <a title="いかそばの部屋" href="https://ikasoba.net"><img width="110" height="40" src="https://ikasoba.net/static/banner.svg"/></a>
         </div>
       </section>
     </main>
