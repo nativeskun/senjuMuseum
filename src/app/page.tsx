@@ -101,7 +101,7 @@ export default function Home() {
           ActivityPub（mkkey.net）（MastodonやMisskeyからフォローできます）
         </a>
         <br />
-        <a href="https://mi.nekonet.cyou/" target="_blank" className="ml-4 text-blue-600 hover:underline">
+        <a href="https://mi.nekonet.cyou/@nat" target="_blank" className="ml-4 text-blue-600 hover:underline">
           ActivityPub（mi.nekonet.cyou）
         </a>
         <br />
