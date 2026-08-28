@@ -45,6 +45,7 @@ export const topicsConfig: TopicsConfig = {
         { src: "/images/history/202604.png", description: "<i>2026年4月 フォロワーさんのオリジナルキャラクター<br>バースデイイラストとして寄贈</i>" },
         { src: "/images/history/202605.png", description: "<i>2026年5月 ナイア/トリッカル<br>ナイアのことを常に考えている</i>" },
         { src: "/images/history/202606.png", description: "<i>2026年6月 野球チームの集合イラスト<br>みんなと戦えてよかった</i>" },
+        { src: "/images/history/202607.png", description: "<i>2026年7月 ナイア/トリッカル<br>もちもち電脳祭りイラストアンソロジーに寄贈</i>"}
       ]
     },
     {
@@ -66,6 +67,10 @@ export const topicsConfig: TopicsConfig = {
         { src: "/images/naia/8.png", description: "初描き（ルリちゃんもいるよ）" },
         { src: "/images/naia/9.png", description: "キョトンとした顔で自分を指さすスチルが好き" },
         { src: "/images/naia/10.png", description: "いろんなサイズ感を試している" },
+        { src: "/images/naia/11.png", description: "本国版のバニー衣装があまりにも煽情的すぎる" },
+        { src: "/images/naia/12.png", description: "ナイシル" },
+        { src: "/images/naia/13.png", description: "マンガをぼちぼち描いています<br>いずれどこかで無料公開すると思う" },
+        { src: "/images/naia/14.jpeg", description: "ここまでのご観覧ありがとうございました<br>よろしければわたくしのSNSをフォローしていってください<br>このサイトのトップページにSNS一覧があります" },
       ],
     }
   ],
