@@ -84,13 +84,14 @@ export default function Home() {
             <Image src="/images/先住民の歴史博物館.png" width={160} height={50} alt="先住民の歴史博物館" className="mt-4" />
           </a>
           <br />
+          （文章は手打ちだぞ！）<br />
           公開日：2026/7/8(水)
         </p>
       </section>
       <section className="mt-12 border-t border-zinc-200 pt-12 dark:border-zinc-800">
         <h2 className="text-2xl font-bold tracking-tight mb-4">ソーシャルアカウント</h2>
         <a href="https://x.com/NTvsKNTM" target="_blank" className="ml-4 text-blue-600 hover:underline">
-          エックス（ほぼ見るだけ（DMくれたら見ます））
+          エックス（@NTvsKNTM）（ほぼ見るだけ（DMくれたら見ます））
         </a>
         <br />
         <a href="https://www.pixiv.net/users/25922850" target="_blank" className="ml-4 text-blue-600 hover:underline">
@@ -98,11 +99,11 @@ export default function Home() {
         </a>
         <br />
         <a href="https://mkkey.net/@nat" target="_blank" className="ml-4 text-blue-600 hover:underline">
-          ActivityPub（mkkey.net）（MastodonやMisskeyからフォローできます）
+          ActivityPub（nat@mkkey.net）（MastodonやMisskeyからフォローできます）
         </a>
         <br />
         <a href="https://mi.nekonet.cyou/@nat" target="_blank" className="ml-4 text-blue-600 hover:underline">
-          ActivityPub（mi.nekonet.cyou）
+          ActivityPub（nat@mi.nekonet.cyou）
         </a>
         <br />
         <a href="https://skeb.jp/@natives" target="_blank" className="ml-4 text-blue-600 hover:underline">
@@ -115,6 +116,10 @@ export default function Home() {
         <br />
         <a href="https://note.com/natives" target="_blank" className="ml-4 text-blue-600 hover:underline">
           note
+        </a>
+        <br />
+        <a href="https://vrchat.com/home/user/usr_78721261-45a1-4819-a4e7-618b4113936c" target="_blank" className="ml-4 text-blue-600 hover:underline">
+          VRChat
         </a>
       </section>
       <section className="mt-12 border-t border-zinc-200 pt-12 dark:border-zinc-800 gap-4">
