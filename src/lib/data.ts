@@ -51,7 +51,7 @@ export const topicsConfig: TopicsConfig = {
     {
       slug: "naia",
       title: "世界の必須要素の写真集は必須なのか？",
-      description: "電脳もちもち祭りにて展示のイラスト(無料です)",
+      description: "電脳もちもち祭りにて展示のイラスト(無料です)<br>一部本国衣装あります",
       thumbnail: "/images/naia/samune.png",
       color: "#4a90d9",
       accentColor: "#dbe646",
@@ -67,7 +67,7 @@ export const topicsConfig: TopicsConfig = {
         { src: "/images/naia/8.png", description: "初描き（ルリちゃんもいるよ）" },
         { src: "/images/naia/9.png", description: "キョトンとした顔で自分を指さすスチルが好き" },
         { src: "/images/naia/10.png", description: "いろんなサイズ感を試している" },
-        { src: "/images/naia/11.png", description: "本国版のバニー衣装があまりにも煽情的すぎる<br><i>ついでにルリちゃんも</i>" },
+        { src: "/images/naia/11.png", description: "本国版のバニー衣装があまりにも煽情的すぎる<br><i>ついでにルリちゃんも</i><br>ナイア単体のイラストをネップリに登録しました。セブンイレブンでどうぞ<br>KNMBDLR6" },
         { src: "/images/naia/12.png", description: "ナイシル" },
         { src: "/images/naia/13.png", description: "マンガをぼちぼち描いています<br>いずれどこかで無料公開すると思う" },
         { src: "/images/naia/14.jpeg", description: "ここまでのご観覧ありがとうございました<br>よろしければわたくしのSNSをフォローしていってください<br>このサイトのトップページにSNS一覧があります" },
