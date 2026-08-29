@@ -67,7 +67,7 @@ export const topicsConfig: TopicsConfig = {
         { src: "/images/naia/8.png", description: "初描き（ルリちゃんもいるよ）" },
         { src: "/images/naia/9.png", description: "キョトンとした顔で自分を指さすスチルが好き" },
         { src: "/images/naia/10.png", description: "いろんなサイズ感を試している" },
-        { src: "/images/naia/11.png", description: "本国版のバニー衣装があまりにも煽情的すぎる" },
+        { src: "/images/naia/11.png", description: "本国版のバニー衣装があまりにも煽情的すぎる<br><i>ついでにルリちゃんも</i>" },
         { src: "/images/naia/12.png", description: "ナイシル" },
         { src: "/images/naia/13.png", description: "マンガをぼちぼち描いています<br>いずれどこかで無料公開すると思う" },
         { src: "/images/naia/14.jpeg", description: "ここまでのご観覧ありがとうございました<br>よろしければわたくしのSNSをフォローしていってください<br>このサイトのトップページにSNS一覧があります" },
