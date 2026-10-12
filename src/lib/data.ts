@@ -45,7 +45,9 @@ export const topicsConfig: TopicsConfig = {
         { src: "/images/history/202604.png", description: "<i>2026年4月 フォロワーさんのオリジナルキャラクター<br>バースデイイラストとして寄贈</i>" },
         { src: "/images/history/202605.png", description: "<i>2026年5月 ナイア/トリッカル<br>ナイアのことを常に考えている</i>" },
         { src: "/images/history/202606.png", description: "<i>2026年6月 野球チームの集合イラスト<br>みんなと戦えてよかった</i>" },
-        { src: "/images/history/202607.png", description: "<i>2026年7月 ナイア/トリッカル<br>もちもち電脳祭りイラストアンソロジーに寄贈</i>"}
+        { src: "/images/history/202607.png", description: "<i>2026年7月 ナイア/トリッカル<br>もちもち電脳祭りイラストアンソロジーに寄贈</i>"},
+        { src: "/images/history/202608.png", description: "<i>2026年8月 VRCで使っているアバター<br>光の当たり方を意識した</i>"},
+        { src: "/images/history/202609.png", description: "<i>2026年9月 ジョアン/トリッカル<br>株を上げる必要がある（幕間でしっかり上げてくれたのが良かった）</i>"}
       ]
     },
     {
