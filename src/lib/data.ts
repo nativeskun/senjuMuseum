@@ -47,13 +47,14 @@ export const topicsConfig: TopicsConfig = {
         { src: "/images/history/202606.png", description: "<i>2026年6月 野球チームの集合イラスト<br>みんなと戦えてよかった</i>" },
         { src: "/images/history/202607.png", description: "<i>2026年7月 ナイア/トリッカル<br>もちもち電脳祭りイラストアンソロジーに寄贈</i>"},
         { src: "/images/history/202608.png", description: "<i>2026年8月 VRCで使っているアバター<br>光の当たり方を意識した</i>"},
-        { src: "/images/history/202609.png", description: "<i>2026年9月 ジョアン/トリッカル<br>株を上げる必要がある（幕間でしっかり上げてくれたのが良かった）</i>"}
+        { src: "/images/history/202609.png", description: "<i>2026年9月 ジョアン/トリッカル<br>株を上げる必要がある（幕間でしっかり上げてくれたのが良かった）</i>"},
+        { src: "/images/history/202610.png", description: "<i>2026年10月 ナイア<br>ペラくないコスプレ"},
       ]
     },
     {
       slug: "naia",
       title: "世界の必須要素の写真集は必須なのか？",
-      description: "電脳もちもち祭りにて展示のイラスト(無料です)<br>一部本国衣装あります",
+      description: "ナイアのイラストアーカイブ",
       thumbnail: "/images/naia/samune.png",
       color: "#4a90d9",
       accentColor: "#dbe646",
@@ -71,8 +72,11 @@ export const topicsConfig: TopicsConfig = {
         { src: "/images/naia/10.png", description: "いろんなサイズ感を試している" },
         { src: "/images/naia/11.png", description: "本国版のバニー衣装があまりにも煽情的すぎる<br><i>ついでにルリちゃんも</i><br>ナイア単体のイラストをネップリに登録しました。セブンイレブンでどうぞ<br>KNMBDLR6" },
         { src: "/images/naia/12.png", description: "ナイシル" },
-        { src: "/images/naia/13.png", description: "マンガをぼちぼち描いています<br>いずれどこかで無料公開すると思う" },
-        { src: "/images/naia/14.jpeg", description: "ここまでのご観覧ありがとうございました<br>よろしければわたくしのSNSをフォローしていってください<br>このサイトのトップページにSNS一覧があります" },
+        { src: "/images/naia/13.png", description: "マンガをぼちぼち描いている" },
+        { src: "/images/naia/14.jpeg", description: "落書きすぎる" },
+        { src: "/images/naia/15.png", description: "ゆったりさせるやつ<br>どうだ、明るくなったろうとか言ってそうな感じになってしまった" },
+        { src: "/images/naia/16.png", description: "バニー正式実装記念" },
+        { src: "/images/naia/17.png", description: "ハロウィーン" },
       ],
     }
   ],
