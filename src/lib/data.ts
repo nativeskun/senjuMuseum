@@ -48,7 +48,8 @@ export const topicsConfig: TopicsConfig = {
         { src: "/images/history/202607.png", description: "<i>2026年7月 ナイア/トリッカル<br>もちもち電脳祭りイラストアンソロジーに寄贈</i>"},
         { src: "/images/history/202608.png", description: "<i>2026年8月 VRCで使っているアバター<br>光の当たり方を意識した</i>"},
         { src: "/images/history/202609.png", description: "<i>2026年9月 ジョアン/トリッカル<br>株を上げる必要がある（幕間でしっかり上げてくれたのが良かった）</i>"},
-        { src: "/images/history/202610.png", description: "<i>2026年10月 ナイア<br>ペラくないコスプレ"},
+        { src: "/images/history/202610.png", description: "<i>2026年10月 ナイア<br>ペラくないコスプレ</i>"},
+        { src: "/images/history/202611.png", description: "<i>2026年11月 ポチコ/ポップンミュージック<br>ナイアと同じ声優だってよ</i>"},
       ]
     },
     {
